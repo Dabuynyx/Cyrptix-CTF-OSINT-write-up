@@ -1,5 +1,7 @@
 # Behind the Shroud — Cytech CTF Write-Up
 
+[⬅️ Back to CTF Master Index](../README.md)
+
 <div align="center">
 
 ![Category](https://img.shields.io/badge/Category-OSINT%20%2F%20Cyber%20Threat%20Intelligence-blue?style=for-the-badge&logo=torbrowser)

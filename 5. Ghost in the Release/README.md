@@ -1,5 +1,7 @@
 # Ghost in the Release — Cytech CTF Write-Up
 
+[⬅️ Back to CTF Master Index](../README.md)
+
 <div align="center">
 
 ![Category](https://img.shields.io/badge/Category-Git%20Forensics%20%2F%20Cryptography%20%2F%20OSINT-blue?style=for-the-badge&logo=git)

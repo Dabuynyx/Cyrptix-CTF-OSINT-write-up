@@ -1,5 +1,7 @@
 # Old Friends — Cytech CTF Write-Up
 
+[⬅️ Back to CTF Master Index](../README.md)
+
 <div align="center">
 
 ![Category](https://img.shields.io/badge/Category-OSINT%20%2F%20Digital%20Forensics-blue?style=for-the-badge&logo=googlemaps)
