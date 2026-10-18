@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![CTF](https://img.shields.io/badge/CTF-Cyrptix%20%2F%20Cytech-orange?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF-Cryptix%20CTF-orange?style=for-the-badge)
+![Organizer](https://img.shields.io/badge/Organizer-HTU%20Cyber%20Club-blue?style=for-the-badge)
+![Partner](https://img.shields.io/badge/Partner-CYS--TECH-red?style=for-the-badge)
 ![Track](https://img.shields.io/badge/Track-OSINT%20%26%20Digital%20Forensics-blue?style=for-the-badge&logo=target)
 ![Progress](https://img.shields.io/badge/Challenges%20Solved-5%20%2F%205-success?style=for-the-badge&logo=checkmarx)
 ![Author](https://img.shields.io/badge/Author-Dabuynyx-purple?style=for-the-badge&logo=github)

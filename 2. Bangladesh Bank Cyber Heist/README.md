@@ -1,4 +1,6 @@
-# Bangladesh Bank Cyber Heist — Cytech CTF Write-Up
+# Bangladesh Bank Cyber Heist — Cryptix CTF Write-Up
+
+> **Event:** Cryptix CTF — Organized by **HTU Cyber Club** in collaboration with **CYS-TECH**
 
 [⬅️ Back to CTF Master Index](../README.md)
 
@@ -6,7 +8,9 @@
 
 ![Category](https://img.shields.io/badge/Category-OSINT%20%2F%20Cyber%20Threat%20Intelligence-blue?style=for-the-badge&logo=target)
 ![Status](https://img.shields.io/badge/Status-Solved-success?style=for-the-badge&logo=checkmarx)
-![CTF](https://img.shields.io/badge/CTF-Cytech-orange?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF-Cryptix%20CTF-orange?style=for-the-badge)
+![Organizer](https://img.shields.io/badge/Organizer-HTU%20Cyber%20Club-blue?style=for-the-badge)
+![Partner](https://img.shields.io/badge/Partner-CYS--TECH-red?style=for-the-badge)
 ![Final Flag](https://img.shields.io/badge/Flag-Cryptix%7Bfandation_Jupiter_ChosunExpoJointVenture_90%7D-red?style=for-the-badge)
 
 </div>
