@@ -175,3 +175,10 @@ Smiling hacker legend
 * **Krebs on Security:** [The Darkode Cybercrime Forum Up Close](https://krebsonsecurity.com/2015/07/the-darkode-cybercrime-forum-up-close/)
 * **Reuters:** [U.S. says computer hacking forum Darkode dismantled, 12 charged](https://www.reuters.com/article/markets/commodities/us-says-computer-hacking-forum-darkode-dismantled-12-charged-idUSL2N0ZV12P/)
 * **Ars Technica:** [Criminal hacking bazaar Darkode is dismantled and 70 members are busted](https://arstechnica.com/tech-policy/2015/07/criminal-hacking-bazaar-darkode-is-dismantled-and-70-members-are-busted/)
+
+
+---
+
+## 📄 License
+
+This write-up is licensed under the [MIT License](../LICENSE) — see the [LICENSE](../LICENSE) file for details.

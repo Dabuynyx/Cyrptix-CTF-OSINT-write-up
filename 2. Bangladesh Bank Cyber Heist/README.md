@@ -261,3 +261,10 @@ Cryptix{fandation_Jupiter_ChosunExpoJointVenture_90}
 * **CourtListener:** [Docket for United States v. Hyok (2:18-mj-01479)](https://www.courtlistener.com/docket/7833295/united-states-v-hyok/)
 * **Federal Bureau of Investigation (FBI):** [Cyber's Most Wanted: Park Jin Hyok](https://www.fbi.gov/wanted/cyber/park-jin-hyok)
 * **U.S. Department of the Treasury:** [Treasury Sanctions North Korean State-Sponsored Malicious Cyber Groups](https://home.treasury.gov/news/press-releases/sm774)
+
+
+---
+
+## 📄 License
+
+This write-up is licensed under the [MIT License](../LICENSE) — see the [LICENSE](../LICENSE) file for details.

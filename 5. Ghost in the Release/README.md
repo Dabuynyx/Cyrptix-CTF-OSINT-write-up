@@ -294,3 +294,10 @@ payguard-vault.tar.gz
 | **Inspect raw commit / object by SHA** | `git show <commit-hash>` |
 | **Decrypt AES-256-CBC with PBKDF2** | `openssl enc -d -a -aes-256-cbc -pbkdf2 -iter <N> -md sha256 -pass pass:<P> -in <FILE>` |
 | **Fetch raw remote Gist file** | `curl -s https://gist.githubusercontent.com/<user>/<gist_id>/raw/<filename>` |
+
+
+---
+
+## 📄 License
+
+This write-up is licensed under the [MIT License](../LICENSE) — see the [LICENSE](../LICENSE) file for details.

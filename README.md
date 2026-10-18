@@ -8,6 +8,7 @@
 ![Track](https://img.shields.io/badge/Track-OSINT%20%26%20Digital%20Forensics-blue?style=for-the-badge&logo=target)
 ![Progress](https://img.shields.io/badge/Challenges%20Solved-5%20%2F%205-success?style=for-the-badge&logo=checkmarx)
 ![Author](https://img.shields.io/badge/Author-Dabuynyx-purple?style=for-the-badge&logo=github)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 A comprehensive, production-grade collection of write-ups, digital forensic artifacts, and reproducible methodologies for the **Cyrptix CTF** OSINT and Git Forensics challenges.
 
@@ -79,3 +80,10 @@ sudo apt-get update && sudo apt-get install -y git libimage-exiftool-perl openss
 ## ⚖️ Disclaimer
 
 All materials, intelligence disclosures, and technical methodologies documented in this repository are for educational, CTF research, and authorized digital forensics training purposes only.
+
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) — see the [LICENSE](LICENSE) file for details.

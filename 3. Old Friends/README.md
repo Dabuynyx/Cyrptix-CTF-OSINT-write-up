@@ -202,3 +202,10 @@ Cr4t3K1ng (cr4t3k1ng.site)
 
 > [!IMPORTANT]
 > **Key Forensic Lesson:** Deleting content or images from the live version of a website does not remove previous snapshots captured by web archives, search engine caches, or third-party scraper scrapings. Furthermore, mobile devices automatically tag media files with exact GPS EXIF metadata unless specifically stripped by the application or privacy settings prior to upload.
+
+
+---
+
+## 📄 License
+
+This write-up is licensed under the [MIT License](../LICENSE) — see the [LICENSE](../LICENSE) file for details.
