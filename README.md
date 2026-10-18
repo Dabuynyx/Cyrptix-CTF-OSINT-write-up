@@ -1,16 +1,16 @@
-# Cyrptix CTF — OSINT & Digital Forensics Write-Ups
+# Cryptix CTF — OSINT with DFIR Write-Ups
 
 <div align="center">
 
 ![CTF](https://img.shields.io/badge/CTF-Cryptix%20CTF-orange?style=for-the-badge)
 ![Organizer](https://img.shields.io/badge/Organizer-HTU%20Cyber%20Club-blue?style=for-the-badge)
 ![Partner](https://img.shields.io/badge/Partner-CYS--TECH-red?style=for-the-badge)
-![Track](https://img.shields.io/badge/Track-OSINT%20%26%20Digital%20Forensics-blue?style=for-the-badge&logo=target)
+![Track](https://img.shields.io/badge/Track-OSINT%20with%20DFIR-blue?style=for-the-badge&logo=target)
 ![Progress](https://img.shields.io/badge/Challenges%20Solved-5%20%2F%205-success?style=for-the-badge&logo=checkmarx)
 ![Author](https://img.shields.io/badge/Author-Dabuynyx-purple?style=for-the-badge&logo=github)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
-A comprehensive, production-grade collection of write-ups, digital forensic artifacts, and reproducible methodologies for the **Cyrptix CTF** OSINT and Git Forensics challenges.
+A comprehensive, production-grade collection of write-ups, digital forensic artifacts, and reproducible methodologies for the **Cyrptix CTF** challenges in the **OSINT with DFIR** track.
 
 </div>
 
@@ -18,7 +18,7 @@ A comprehensive, production-grade collection of write-ups, digital forensic arti
 
 ## 📖 Overview
 
-This repository documents the end-to-end investigation, reverse engineering, and threat intelligence workflows used to solve all 5 OSINT and Digital Forensics challenges in the **Cyrptix CTF**.
+This repository documents the end-to-end investigation, reverse engineering, and threat intelligence workflows used to solve all all 5 challenges in the **OSINT with DFIR** track in the **Cyrptix CTF**.
 
 Every challenge contains:
 - 📌 **Incident Scenario & Narrative:** Detailed threat context, actor profiles, and intelligence background.
@@ -31,13 +31,13 @@ Every challenge contains:
 
 ## 🎯 Challenges Summary & Navigation
 
-| # | Challenge Name | Primary Categories | Final Flag | Challenge Folder | Standalone Repository |
+| # | Challenge Name | Category Focus | Final Flag | Challenge Folder | Standalone Repository |
 | :-: | :--- | :--- | :--- | :-: | :-: |
-| **1** | **The Ghost in the Blocks** | OSINT • Git Forensics | `CTF{cryptix}` | [📂 Read Write-Up](./1.%20The%20Ghost%20in%20the%20Blocks/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-the-ghost-in-the-blocks) |
-| **2** | **Bangladesh Bank Cyber Heist** | Threat Intelligence • OSINT | `Cryptix{fandation_Jupiter_ChosunExpoJointVenture_90}` | [📂 Read Write-Up](./2.%20Bangladesh%20Bank%20Cyber%20Heist/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-bangladesh-bank-cyber-heist) |
-| **3** | **Old Friends** | Web Archive Forensics • Geolocation | `Cryptix{stonehenge}` | [📂 Read Write-Up](./3.%20Old%20Friends/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-old-friends) |
-| **4** | **Behind the Shroud** | Threat Intelligence • OSINT | `Cryptix{OperationShroudedHorizon_12_M1rr0r}` | [📂 Read Write-Up](./4.%20Behind%20the%20Shroud/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-behind-the-shroud) |
-| **5** | **Ghost in the Release** | Git Plumbing • PBKDF2/AES • OSINT | `Cryptix{v4ult_unl0ck3d_st4g3_tw0_n0t3s_0s1nt_g1st_w1ns}` | [📂 Read Write-Up](./5.%20Ghost%20in%20the%20Release/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-ghost-in-the-release) |
+| **1** | **The Ghost in the Blocks** | OSINT with DFIR (Git Forensics) | `CTF{cryptix}` | [📂 Read Write-Up](./1.%20The%20Ghost%20in%20the%20Blocks/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-the-ghost-in-the-blocks) |
+| **2** | **Bangladesh Bank Cyber Heist** | OSINT with DFIR (Threat Intelligence) | `Cryptix{fandation_Jupiter_ChosunExpoJointVenture_90}` | [📂 Read Write-Up](./2.%20Bangladesh%20Bank%20Cyber%20Heist/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-bangladesh-bank-cyber-heist) |
+| **3** | **Old Friends** | OSINT with DFIR (Web Archive & EXIF) | `Cryptix{stonehenge}` | [📂 Read Write-Up](./3.%20Old%20Friends/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-old-friends) |
+| **4** | **Behind the Shroud** | OSINT with DFIR (Threat Intelligence) | `Cryptix{OperationShroudedHorizon_12_M1rr0r}` | [📂 Read Write-Up](./4.%20Behind%20the%20Shroud/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-behind-the-shroud) |
+| **5** | **Ghost in the Release** | OSINT with DFIR (Git Plumbing & Crypto) | `Cryptix{v4ult_unl0ck3d_st4g3_tw0_n0t3s_0s1nt_g1st_w1ns}` | [📂 Read Write-Up](./5.%20Ghost%20in%20the%20Release/README.md) | [🔗 Standalone Repo](https://github.com/Dabuynyx/osint-writeup-cytech-ghost-in-the-release) |
 
 ---
 
